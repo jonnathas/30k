@@ -18,5 +18,4 @@ Segue a baixo uma lista de conhecimentos que são necessarios para se tornar um 
 9. [PlayList de MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 10. [PlayList de Git](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 11. [PlayList de Laravel](https://www.youtube.com/watch?v=rljzeWpPNYU&list=PLVSNL1PHDWvQwfqqY7XSobGuV39KsM46G)
-12. [PlayList de Diagramação (diagramas mais utilizados)](https://www.youtube.com/watch?v=C3xYBT3o_5k&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ)
-13. [PlayList de UML 2.5](https://www.youtube.com/watch?v=C3xYBT3o_5k&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ)
+12. [PlayList de modelagem (UML 2.5) (https://www.youtube.com/watch?v=DfzAPafCgNY&list=PLvSnBLKgRyHWINbSrLEEE6cen3ghoM_LG&index=5)
